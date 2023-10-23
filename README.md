@@ -1,2 +1,2 @@
 # http-python-functions-template
-Python Cloud functions template for Https trigger
+Python Cloud functions template for Http trigger.
